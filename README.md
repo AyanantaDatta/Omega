@@ -1,5 +1,7 @@
 
 # Omega Ω
+![](https://github.com/AyanantaDatta/Omega/blob/master/giphy.gif)
+
 
 Omega is a voice-controlled assistant built in Python that uses various APIs and services to perform tasks based on voice commands. It leverages OpenAI's GPT-3.5 language model for generating responses to user queries.
 
